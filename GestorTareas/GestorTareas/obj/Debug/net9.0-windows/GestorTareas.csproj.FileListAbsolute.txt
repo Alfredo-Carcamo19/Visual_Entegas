@@ -1,0 +1,17 @@
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\GestorTareas\GestorTareas\bin\Debug\net9.0-windows\GestorTareas.exe
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\GestorTareas\GestorTareas\bin\Debug\net9.0-windows\GestorTareas.deps.json
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\GestorTareas\GestorTareas\bin\Debug\net9.0-windows\GestorTareas.runtimeconfig.json
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\GestorTareas\GestorTareas\bin\Debug\net9.0-windows\GestorTareas.dll
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\GestorTareas\GestorTareas\bin\Debug\net9.0-windows\GestorTareas.pdb
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\GestorTareas\GestorTareas\obj\Debug\net9.0-windows\GestorTareas.Form1.resources
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\GestorTareas\GestorTareas\obj\Debug\net9.0-windows\GestorTareas.csproj.GenerateResource.cache
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\GestorTareas\GestorTareas\obj\Debug\net9.0-windows\GestorTareas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\GestorTareas\GestorTareas\obj\Debug\net9.0-windows\GestorTareas.AssemblyInfoInputs.cache
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\GestorTareas\GestorTareas\obj\Debug\net9.0-windows\GestorTareas.AssemblyInfo.cs
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\GestorTareas\GestorTareas\obj\Debug\net9.0-windows\GestorTareas.csproj.CoreCompileInputs.cache
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\GestorTareas\GestorTareas\obj\Debug\net9.0-windows\GestorTareas.sourcelink.json
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\GestorTareas\GestorTareas\obj\Debug\net9.0-windows\GestorTareas.dll
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\GestorTareas\GestorTareas\obj\Debug\net9.0-windows\refint\GestorTareas.dll
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\GestorTareas\GestorTareas\obj\Debug\net9.0-windows\GestorTareas.pdb
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\GestorTareas\GestorTareas\obj\Debug\net9.0-windows\GestorTareas.genruntimeconfig.cache
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\GestorTareas\GestorTareas\obj\Debug\net9.0-windows\ref\GestorTareas.dll
