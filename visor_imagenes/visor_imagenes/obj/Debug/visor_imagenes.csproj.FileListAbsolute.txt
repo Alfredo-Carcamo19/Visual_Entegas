@@ -1,0 +1,11 @@
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\visor_imagenes\visor_imagenes\bin\Debug\visor_imagenes.exe.config
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\visor_imagenes\visor_imagenes\bin\Debug\visor_imagenes.exe
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\visor_imagenes\visor_imagenes\bin\Debug\visor_imagenes.pdb
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\visor_imagenes\visor_imagenes\obj\Debug\visor_imagenes.csproj.AssemblyReference.cache
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\visor_imagenes\visor_imagenes\obj\Debug\visor_imagenes.Properties.Resources.resources
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\visor_imagenes\visor_imagenes\obj\Debug\visor_imagenes.csproj.GenerateResource.cache
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\visor_imagenes\visor_imagenes\obj\Debug\visor_imagenes.csproj.CoreCompileInputs.cache
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\visor_imagenes\visor_imagenes\obj\Debug\visor_imagenes.exe
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\visor_imagenes\visor_imagenes\obj\Debug\visor_imagenes.pdb
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\visor_imagenes\visor_imagenes\obj\Debug\visor_imagenes.exe.config
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\visor_imagenes\visor_imagenes\obj\Debug\visor_imagenes.Visor.resources
