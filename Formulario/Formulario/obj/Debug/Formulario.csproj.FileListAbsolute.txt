@@ -1,0 +1,14 @@
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\Formulario\Formulario\bin\Debug\Formulario.exe.config
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\Formulario\Formulario\bin\Debug\Formulario.exe
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\Formulario\Formulario\bin\Debug\Formulario.pdb
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\Formulario\Formulario\obj\Debug\Formulario.csproj.AssemblyReference.cache
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\Formulario\Formulario\obj\Debug\Formulario.Form1.resources
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\Formulario\Formulario\obj\Debug\Formulario.Form2.resources
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\Formulario\Formulario\obj\Debug\Formulario.Form3.resources
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\Formulario\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\Formulario\Formulario\obj\Debug\Formulario.csproj.GenerateResource.cache
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\Formulario\Formulario\obj\Debug\Formulario.csproj.CoreCompileInputs.cache
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\Formulario\Formulario\obj\Debug\Formulario.exe
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\Formulario\Formulario\obj\Debug\Formulario.pdb
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\Formulario\Formulario\obj\Debug\Formulario.exe.config
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\Formulario\Formulario\obj\Debug\Formulario.Form4.resources

@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Formulario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1DD0A5-E1A2-48BC-AB04-A4CE54FADADF}|Formulario\\Formulario.csproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Formulario\\formulario\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1DD0A5-E1A2-48BC-AB04-A4CE54FADADF}|Formulario\\Formulario.csproj|solutionrelative:formulario\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1DD0A5-E1A2-48BC-AB04-A4CE54FADADF}|Formulario\\Formulario.csproj|c:\\users\\thinkpad\\onedrive\\documents\\lenguajes de programacion\\c#\\interfacesg\\formulario\\formulario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1DD0A5-E1A2-48BC-AB04-A4CE54FADADF}|Formulario\\Formulario.csproj|solutionrelative:formulario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1DD0A5-E1A2-48BC-AB04-A4CE54FADADF}|Formulario\\Formulario.csproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Formulario\\formulario\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1DD0A5-E1A2-48BC-AB04-A4CE54FADADF}|Formulario\\Formulario.csproj|solutionrelative:formulario\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1DD0A5-E1A2-48BC-AB04-A4CE54FADADF}|Formulario\\Formulario.csproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Formulario\\formulario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E1DD0A5-E1A2-48BC-AB04-A4CE54FADADF}|Formulario\\Formulario.csproj|solutionrelative:formulario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1DD0A5-E1A2-48BC-AB04-A4CE54FADADF}|Formulario\\Formulario.csproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Formulario\\formulario\\form4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1DD0A5-E1A2-48BC-AB04-A4CE54FADADF}|Formulario\\Formulario.csproj|solutionrelative:formulario\\form4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1DD0A5-E1A2-48BC-AB04-A4CE54FADADF}|Formulario\\Formulario.csproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Formulario\\formulario\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1DD0A5-E1A2-48BC-AB04-A4CE54FADADF}|Formulario\\Formulario.csproj|solutionrelative:formulario\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1DD0A5-E1A2-48BC-AB04-A4CE54FADADF}|Formulario\\Formulario.csproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Formulario\\formulario\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1DD0A5-E1A2-48BC-AB04-A4CE54FADADF}|Formulario\\Formulario.csproj|solutionrelative:formulario\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1DD0A5-E1A2-48BC-AB04-A4CE54FADADF}|Formulario\\Formulario.csproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Formulario\\formulario\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E1DD0A5-E1A2-48BC-AB04-A4CE54FADADF}|Formulario\\Formulario.csproj|solutionrelative:formulario\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1DD0A5-E1A2-48BC-AB04-A4CE54FADADF}|Formulario\\Formulario.csproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Formulario\\formulario\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1DD0A5-E1A2-48BC-AB04-A4CE54FADADF}|Formulario\\Formulario.csproj|solutionrelative:formulario\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1DD0A5-E1A2-48BC-AB04-A4CE54FADADF}|Formulario\\Formulario.csproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Formulario\\formulario\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E1DD0A5-E1A2-48BC-AB04-A4CE54FADADF}|Formulario\\Formulario.csproj|solutionrelative:formulario\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1DD0A5-E1A2-48BC-AB04-A4CE54FADADF}|Formulario\\Formulario.csproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Formulario\\formulario\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1DD0A5-E1A2-48BC-AB04-A4CE54FADADF}|Formulario\\Formulario.csproj|solutionrelative:formulario\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1DD0A5-E1A2-48BC-AB04-A4CE54FADADF}|Formulario\\Formulario.csproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Formulario\\formulario\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E1DD0A5-E1A2-48BC-AB04-A4CE54FADADF}|Formulario\\Formulario.csproj|solutionrelative:formulario\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1DD0A5-E1A2-48BC-AB04-A4CE54FADADF}|Formulario\\Formulario.csproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Formulario\\formulario\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1DD0A5-E1A2-48BC-AB04-A4CE54FADADF}|Formulario\\Formulario.csproj|solutionrelative:formulario\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Formulario\\Formulario\\Form1.cs",
+              "RelativeDocumentMoniker": "Formulario\\Form1.cs",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Formulario\\Formulario\\Form1.cs",
+              "RelativeToolTip": "Formulario\\Form1.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAuwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T03:50:14.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form4.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Formulario\\Formulario\\Form4.Designer.cs",
+              "RelativeDocumentMoniker": "Formulario\\Form4.Designer.cs",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Formulario\\Formulario\\Form4.Designer.cs",
+              "RelativeToolTip": "Formulario\\Form4.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T06:04:48.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Formulario\\Formulario\\Form4.cs",
+              "RelativeDocumentMoniker": "Formulario\\Form4.cs",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Formulario\\Formulario\\Form4.cs",
+              "RelativeToolTip": "Formulario\\Form4.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAYwDwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T05:53:58.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form4.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Formulario\\Formulario\\Form4.cs",
+              "RelativeDocumentMoniker": "Formulario\\Form4.cs",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Formulario\\Formulario\\Form4.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formulario\\Form4.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T05:49:14.755Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form3.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Formulario\\Formulario\\Form3.Designer.cs",
+              "RelativeDocumentMoniker": "Formulario\\Form3.Designer.cs",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Formulario\\Formulario\\Form3.Designer.cs",
+              "RelativeToolTip": "Formulario\\Form3.Designer.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAQwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T03:31:03.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Formulario\\Formulario\\Form3.cs",
+              "RelativeDocumentMoniker": "Formulario\\Form3.cs",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Formulario\\Formulario\\Form3.cs",
+              "RelativeToolTip": "Formulario\\Form3.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T04:44:04.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Formulario\\Formulario\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Formulario\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Formulario\\Formulario\\Form1.Designer.cs",
+              "RelativeToolTip": "Formulario\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T05:02:51.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Formulario\\Formulario\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "Formulario\\Form2.Designer.cs",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Formulario\\Formulario\\Form2.Designer.cs",
+              "RelativeToolTip": "Formulario\\Form2.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T04:42:02.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Formulario\\Formulario\\Estudiante.cs",
+              "RelativeDocumentMoniker": "Formulario\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Formulario\\Formulario\\Estudiante.cs",
+              "RelativeToolTip": "Formulario\\Estudiante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T04:36:28.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form3.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Formulario\\Formulario\\Form3.cs",
+              "RelativeDocumentMoniker": "Formulario\\Form3.cs",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Formulario\\Formulario\\Form3.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formulario\\Form3.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T04:03:03.88Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Formulario\\Formulario\\Form2.cs",
+              "RelativeDocumentMoniker": "Formulario\\Form2.cs",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Formulario\\Formulario\\Form2.cs",
+              "RelativeToolTip": "Formulario\\Form2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T03:50:24.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Formulario\\Formulario\\Form2.cs",
+              "RelativeDocumentMoniker": "Formulario\\Form2.cs",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Formulario\\Formulario\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formulario\\Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T03:50:04.058Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Formulario\\Formulario\\Form1.cs",
+              "RelativeDocumentMoniker": "Formulario\\Form1.cs",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Formulario\\Formulario\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formulario\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T03:49:20.865Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
