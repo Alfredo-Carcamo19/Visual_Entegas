@@ -1,0 +1,16 @@
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\Algoritmos_Ordenamiento\Algoritmos_Ordenamiento\bin\Debug\Algoritmos_Ordenamiento.exe.config
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\Algoritmos_Ordenamiento\Algoritmos_Ordenamiento\bin\Debug\Algoritmos_Ordenamiento.exe
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\Algoritmos_Ordenamiento\Algoritmos_Ordenamiento\bin\Debug\Algoritmos_Ordenamiento.pdb
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\Algoritmos_Ordenamiento\Algoritmos_Ordenamiento\obj\Debug\Algoritmos_Ordenamiento.csproj.AssemblyReference.cache
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\Algoritmos_Ordenamiento\Algoritmos_Ordenamiento\obj\Debug\Algoritmos_Ordenamiento.Form1.resources
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\Algoritmos_Ordenamiento\Algoritmos_Ordenamiento\obj\Debug\Algoritmos_Ordenamiento.Properties.Resources.resources
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\Algoritmos_Ordenamiento\Algoritmos_Ordenamiento\obj\Debug\Algoritmos_Ordenamiento.csproj.GenerateResource.cache
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\Algoritmos_Ordenamiento\Algoritmos_Ordenamiento\obj\Debug\Algoritmos_Ordenamiento.csproj.CoreCompileInputs.cache
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\Algoritmos_Ordenamiento\Algoritmos_Ordenamiento\obj\Debug\Algoritmos_Ordenamiento.exe
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\Algoritmos_Ordenamiento\Algoritmos_Ordenamiento\obj\Debug\Algoritmos_Ordenamiento.pdb
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\Algoritmos_Ordenamiento\Algoritmos_Ordenamiento\obj\Debug\Algoritmos_Ordenamiento.exe.config
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\Algoritmos_Ordenamiento\Algoritmos_Ordenamiento\obj\Debug\Algoritmos_Ordenamiento.Form2.resources
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\Algoritmos_Ordenamiento\Algoritmos_Ordenamiento\bin\Debug\Xceed.Document.NET.dll
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\Algoritmos_Ordenamiento\Algoritmos_Ordenamiento\bin\Debug\Xceed.Drawing.NET.dll
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\Algoritmos_Ordenamiento\Algoritmos_Ordenamiento\bin\Debug\Xceed.Words.NET.dll
+C:\Users\THINKPAD\OneDrive\Documents\Lenguajes De Programacion\C#\InterfacesG\Algoritmos_Ordenamiento\Algoritmos_Ordenamiento\obj\Debug\Algoritm.19C50452.Up2Date
