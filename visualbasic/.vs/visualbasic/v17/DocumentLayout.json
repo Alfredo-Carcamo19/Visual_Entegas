@@ -1,0 +1,705 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\frmvisorexistenciasminimas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|solutionrelative:visualbasic\\frmvisorexistenciasminimas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\menu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|solutionrelative:visualbasic\\menu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\rptganancias.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|solutionrelative:visualbasic\\rptganancias.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\frmreporteganancias.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|solutionrelative:visualbasic\\frmreporteganancias.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\frmreporteganancias.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|solutionrelative:visualbasic\\frmreporteganancias.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|c:\\users\\thinkpad\\onedrive\\documents\\lenguajes de programacion\\c#\\interfacesg\\visualbasic\\visualbasic\\frmvisorexistencias.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|solutionrelative:visualbasic\\frmvisorexistencias.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\frmvisorexistencias.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|solutionrelative:visualbasic\\frmvisorexistencias.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\frmvisorclientes.vb.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|solutionrelative:visualbasic\\frmvisorclientes.vb.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\frmvisorproveedores.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|solutionrelative:visualbasic\\frmvisorproveedores.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\usuarios.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|solutionrelative:visualbasic\\usuarios.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|c:\\users\\thinkpad\\onedrive\\documents\\lenguajes de programacion\\c#\\interfacesg\\visualbasic\\visualbasic\\frmvisorexistenciasminimas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|solutionrelative:visualbasic\\frmvisorexistenciasminimas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\frmreportecompras.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|solutionrelative:visualbasic\\frmreportecompras.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\rptcompras.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|solutionrelative:visualbasic\\rptcompras.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\rptclientes.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|solutionrelative:visualbasic\\rptclientes.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\frmvisorproductos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|solutionrelative:visualbasic\\frmvisorproductos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\frmvisorexistenciasminimas.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|solutionrelative:visualbasic\\frmvisorexistenciasminimas.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\frmreporteventas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|solutionrelative:visualbasic\\frmreporteventas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\frminicio.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|solutionrelative:visualbasic\\frminicio.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\menu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|solutionrelative:visualbasic\\menu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\ventas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|solutionrelative:visualbasic\\ventas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\compra.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|solutionrelative:visualbasic\\compra.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\ventas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|solutionrelative:visualbasic\\ventas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\compra.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|solutionrelative:visualbasic\\compra.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\cliente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|solutionrelative:visualbasic\\cliente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\usuarios.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|solutionrelative:visualbasic\\usuarios.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\productos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|solutionrelative:visualbasic\\productos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\frmreportecompras.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|solutionrelative:visualbasic\\frmreportecompras.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\proveedores.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|solutionrelative:visualbasic\\proveedores.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\frminicio.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|solutionrelative:visualbasic\\frminicio.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|solutionrelative:visualbasic\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\dsreportes.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|solutionrelative:visualbasic\\dsreportes.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\frmvisorproveedores.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|solutionrelative:visualbasic\\frmvisorproveedores.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\frmvisorproductos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|solutionrelative:visualbasic\\frmvisorproductos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\frmvisorclientes.vb.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|solutionrelative:visualbasic\\frmvisorclientes.vb.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\frmreporteventas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|solutionrelative:visualbasic\\frmreporteventas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\rptventas.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|solutionrelative:visualbasic\\rptventas.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\modulosesion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|solutionrelative:visualbasic\\modulosesion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\proveedores.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|solutionrelative:visualbasic\\proveedores.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\productos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|solutionrelative:visualbasic\\productos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\loginusuario.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|solutionrelative:visualbasic\\loginusuario.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\loginusuario.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|solutionrelative:visualbasic\\loginusuario.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\rptproductos.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|solutionrelative:visualbasic\\rptproductos.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\rptproveedores.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{A8EE876A-A249-41CC-AD20-85B66CEAC197}|visualbasic\\visualbasic.vbproj|solutionrelative:visualbasic\\rptproveedores.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 124,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmVisorExistenciasMinimas.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\frmVisorExistenciasMinimas.vb",
+              "RelativeDocumentMoniker": "visualbasic\\frmVisorExistenciasMinimas.vb",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\frmVisorExistenciasMinimas.vb [Dise\u00F1o]",
+              "RelativeToolTip": "visualbasic\\frmVisorExistenciasMinimas.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-11T05:24:08.486Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "frmInicio.vb",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\frmInicio.vb",
+              "RelativeDocumentMoniker": "visualbasic\\frmInicio.vb",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\frmInicio.vb",
+              "RelativeToolTip": "visualbasic\\frmInicio.vb",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACUAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-10T23:09:27.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmInicio.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\frmInicio.vb",
+              "RelativeDocumentMoniker": "visualbasic\\frmInicio.vb",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\frmInicio.vb [Dise\u00F1o]",
+              "RelativeToolTip": "visualbasic\\frmInicio.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-10T22:50:02.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "dsReportes.xsd",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\dsReportes.xsd",
+              "RelativeDocumentMoniker": "visualbasic\\dsReportes.xsd",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\dsReportes.xsd",
+              "RelativeToolTip": "visualbasic\\dsReportes.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2025-11-10T06:53:31.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmReporteGanancias.vb",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\frmReporteGanancias.vb",
+              "RelativeDocumentMoniker": "visualbasic\\frmReporteGanancias.vb",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\frmReporteGanancias.vb",
+              "RelativeToolTip": "visualbasic\\frmReporteGanancias.vb",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA6wCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-10T06:40:33.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmReporteGanancias.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\frmReporteGanancias.vb",
+              "RelativeDocumentMoniker": "visualbasic\\frmReporteGanancias.vb",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\frmReporteGanancias.vb [Dise\u00F1o]",
+              "RelativeToolTip": "visualbasic\\frmReporteGanancias.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-10T06:40:29.517Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "rptGanancias.rdlc [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\rptGanancias.rdlc",
+              "RelativeDocumentMoniker": "visualbasic\\rptGanancias.rdlc",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\rptGanancias.rdlc [Dise\u00F1o]",
+              "RelativeToolTip": "visualbasic\\rptGanancias.rdlc [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-11-10T06:24:30.546Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "frmReporteCompras.vb",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\frmReporteCompras.vb",
+              "RelativeDocumentMoniker": "visualbasic\\frmReporteCompras.vb",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\frmReporteCompras.vb",
+              "RelativeToolTip": "visualbasic\\frmReporteCompras.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-10T06:15:17.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmReporteCompras.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\frmReporteCompras.vb",
+              "RelativeDocumentMoniker": "visualbasic\\frmReporteCompras.vb",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\frmReporteCompras.vb [Dise\u00F1o]",
+              "RelativeToolTip": "visualbasic\\frmReporteCompras.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-10T06:14:06.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "rptCompras.rdlc [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\rptCompras.rdlc",
+              "RelativeDocumentMoniker": "visualbasic\\rptCompras.rdlc",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\rptCompras.rdlc [Dise\u00F1o]",
+              "RelativeToolTip": "visualbasic\\rptCompras.rdlc [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-11-10T06:11:33.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "frmReporteVentas.vb",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\frmReporteVentas.vb",
+              "RelativeDocumentMoniker": "visualbasic\\frmReporteVentas.vb",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\frmReporteVentas.vb",
+              "RelativeToolTip": "visualbasic\\frmReporteVentas.vb",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwDkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-10T05:51:22.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmReporteVentas.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\frmReporteVentas.vb",
+              "RelativeDocumentMoniker": "visualbasic\\frmReporteVentas.vb",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\frmReporteVentas.vb [Dise\u00F1o]",
+              "RelativeToolTip": "visualbasic\\frmReporteVentas.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-10T05:42:23.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "rptVentas.rdlc [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\rptVentas.rdlc",
+              "RelativeDocumentMoniker": "visualbasic\\rptVentas.rdlc",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\rptVentas.rdlc [Dise\u00F1o]",
+              "RelativeToolTip": "visualbasic\\rptVentas.rdlc [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-11-10T05:32:16.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmVisorExistenciasMinimas.vb",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\frmVisorExistenciasMinimas.vb",
+              "RelativeDocumentMoniker": "visualbasic\\frmVisorExistenciasMinimas.vb",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\frmVisorExistenciasMinimas.vb",
+              "RelativeToolTip": "visualbasic\\frmVisorExistenciasMinimas.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-10T05:08:16.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmVisorExistenciasMinimas.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\frmVisorExistenciasMinimas.Designer.vb",
+              "RelativeDocumentMoniker": "visualbasic\\frmVisorExistenciasMinimas.Designer.vb",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\frmVisorExistenciasMinimas.Designer.vb",
+              "RelativeToolTip": "visualbasic\\frmVisorExistenciasMinimas.Designer.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-10T05:08:16.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmVisorExistencias.vb",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\frmVisorExistencias.vb",
+              "RelativeDocumentMoniker": "visualbasic\\frmVisorExistencias.vb",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\frmVisorExistencias.vb",
+              "RelativeToolTip": "visualbasic\\frmVisorExistencias.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-10T03:56:27.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmVisorExistencias.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\frmVisorExistencias.vb",
+              "RelativeDocumentMoniker": "visualbasic\\frmVisorExistencias.vb",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\frmVisorExistencias.vb [Dise\u00F1o]",
+              "RelativeToolTip": "visualbasic\\frmVisorExistencias.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-10T03:54:43.439Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "frmVisorProductos.vb",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\frmVisorProductos.vb",
+              "RelativeDocumentMoniker": "visualbasic\\frmVisorProductos.vb",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\frmVisorProductos.vb",
+              "RelativeToolTip": "visualbasic\\frmVisorProductos.vb",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-10T02:59:25.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmVisorProductos.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\frmVisorProductos.vb",
+              "RelativeDocumentMoniker": "visualbasic\\frmVisorProductos.vb",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\frmVisorProductos.vb [Dise\u00F1o]",
+              "RelativeToolTip": "visualbasic\\frmVisorProductos.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-10T02:58:45.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "rptProductos.rdlc [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\rptProductos.rdlc",
+              "RelativeDocumentMoniker": "visualbasic\\rptProductos.rdlc",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\rptProductos.rdlc [Dise\u00F1o]",
+              "RelativeToolTip": "visualbasic\\rptProductos.rdlc [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-11-10T02:52:50.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "frmVisorClientes.vb.vb",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\frmVisorClientes.vb.vb",
+              "RelativeDocumentMoniker": "visualbasic\\frmVisorClientes.vb.vb",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\frmVisorClientes.vb.vb",
+              "RelativeToolTip": "visualbasic\\frmVisorClientes.vb.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-10T02:25:52.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmVisorClientes.vb.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\frmVisorClientes.vb.vb",
+              "RelativeDocumentMoniker": "visualbasic\\frmVisorClientes.vb.vb",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\frmVisorClientes.vb.vb [Dise\u00F1o]",
+              "RelativeToolTip": "visualbasic\\frmVisorClientes.vb.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-10T02:24:54.809Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "rptClientes.rdlc [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\rptClientes.rdlc",
+              "RelativeDocumentMoniker": "visualbasic\\rptClientes.rdlc",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\rptClientes.rdlc [Dise\u00F1o]",
+              "RelativeToolTip": "visualbasic\\rptClientes.rdlc [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-11-10T02:19:52.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "frmVisorProveedores.vb",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\frmVisorProveedores.vb",
+              "RelativeDocumentMoniker": "visualbasic\\frmVisorProveedores.vb",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\frmVisorProveedores.vb",
+              "RelativeToolTip": "visualbasic\\frmVisorProveedores.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-10T02:01:34.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmVisorProveedores.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\frmVisorProveedores.vb",
+              "RelativeDocumentMoniker": "visualbasic\\frmVisorProveedores.vb",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\frmVisorProveedores.vb [Dise\u00F1o]",
+              "RelativeToolTip": "visualbasic\\frmVisorProveedores.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-10T02:00:46.153Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "rptProveedores.rdlc [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\rptProveedores.rdlc",
+              "RelativeDocumentMoniker": "visualbasic\\rptProveedores.rdlc",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\rptProveedores.rdlc [Dise\u00F1o]",
+              "RelativeToolTip": "visualbasic\\rptProveedores.rdlc [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-11-10T01:33:31.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Usuarios.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\Usuarios.vb",
+              "RelativeDocumentMoniker": "visualbasic\\Usuarios.vb",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\Usuarios.vb [Dise\u00F1o]",
+              "RelativeToolTip": "visualbasic\\Usuarios.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-06T07:00:38.376Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Compra.vb",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\Compra.vb",
+              "RelativeDocumentMoniker": "visualbasic\\Compra.vb",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\Compra.vb",
+              "RelativeToolTip": "visualbasic\\Compra.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-09T18:52:08.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "LoginUsuario.vb",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\LoginUsuario.vb",
+              "RelativeDocumentMoniker": "visualbasic\\LoginUsuario.vb",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\LoginUsuario.vb",
+              "RelativeToolTip": "visualbasic\\LoginUsuario.vb",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAowCoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-09T17:40:07.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "LoginUsuario.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\LoginUsuario.vb",
+              "RelativeDocumentMoniker": "visualbasic\\LoginUsuario.vb",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\LoginUsuario.vb [Dise\u00F1o]",
+              "RelativeToolTip": "visualbasic\\LoginUsuario.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-09T16:38:31.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Cliente.vb",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\Cliente.vb",
+              "RelativeDocumentMoniker": "visualbasic\\Cliente.vb",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\Cliente.vb",
+              "RelativeToolTip": "visualbasic\\Cliente.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-07T08:00:36.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Compra.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\Compra.vb",
+              "RelativeDocumentMoniker": "visualbasic\\Compra.vb",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\Compra.vb [Dise\u00F1o]",
+              "RelativeToolTip": "visualbasic\\Compra.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-07T08:07:22.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ModuloSesion.vb",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\ModuloSesion.vb",
+              "RelativeDocumentMoniker": "visualbasic\\ModuloSesion.vb",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\ModuloSesion.vb",
+              "RelativeToolTip": "visualbasic\\ModuloSesion.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA+wAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-07T03:00:20.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Ventas.vb",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\Ventas.vb",
+              "RelativeDocumentMoniker": "visualbasic\\Ventas.vb",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\Ventas.vb",
+              "RelativeToolTip": "visualbasic\\Ventas.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-06T14:27:45.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Ventas.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\Ventas.vb",
+              "RelativeDocumentMoniker": "visualbasic\\Ventas.vb",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\Ventas.vb [Dise\u00F1o]",
+              "RelativeToolTip": "visualbasic\\Ventas.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-06T14:08:21.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Usuarios.vb",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\Usuarios.vb",
+              "RelativeDocumentMoniker": "visualbasic\\Usuarios.vb",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\Usuarios.vb",
+              "RelativeToolTip": "visualbasic\\Usuarios.vb",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAqwJEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-06T07:07:52.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Productos.vb",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\Productos.vb",
+              "RelativeDocumentMoniker": "visualbasic\\Productos.vb",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\Productos.vb",
+              "RelativeToolTip": "visualbasic\\Productos.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-06T05:54:32.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Productos.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\Productos.vb",
+              "RelativeDocumentMoniker": "visualbasic\\Productos.vb",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\Productos.vb [Dise\u00F1o]",
+              "RelativeToolTip": "visualbasic\\Productos.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-06T05:21:53.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Menu.vb",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\Menu.vb",
+              "RelativeDocumentMoniker": "visualbasic\\Menu.vb",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\Menu.vb",
+              "RelativeToolTip": "visualbasic\\Menu.vb",
+              "ViewState": "AgIAALwAAAAAAAAAAAAuwMIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-06T04:07:19.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\Menu.vb",
+              "RelativeDocumentMoniker": "visualbasic\\Menu.vb",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\Menu.vb [Dise\u00F1o]",
+              "RelativeToolTip": "visualbasic\\Menu.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-04T20:05:10.285Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Proveedores.vb",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\Proveedores.vb",
+              "RelativeDocumentMoniker": "visualbasic\\Proveedores.vb",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\Proveedores.vb",
+              "RelativeToolTip": "visualbasic\\Proveedores.vb",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAywAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-20T16:13:46.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\Module1.vb",
+              "RelativeDocumentMoniker": "visualbasic\\Module1.vb",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\Module1.vb",
+              "RelativeToolTip": "visualbasic\\Module1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-20T16:04:07.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Proveedores.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\Proveedores.vb",
+              "RelativeDocumentMoniker": "visualbasic\\Proveedores.vb",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\visualbasic\\visualbasic\\Proveedores.vb [Dise\u00F1o]",
+              "RelativeToolTip": "visualbasic\\Proveedores.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-20T16:03:23.18Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
