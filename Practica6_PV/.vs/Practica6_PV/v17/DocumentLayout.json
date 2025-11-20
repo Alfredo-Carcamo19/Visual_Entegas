@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Practica6_PV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E674267A-0E66-45BB-AC5F-14EAB175079D}|Practica6_PV\\Practica6_PV.csproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Practica6_PV\\practica6_pv\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E674267A-0E66-45BB-AC5F-14EAB175079D}|Practica6_PV\\Practica6_PV.csproj|solutionrelative:practica6_pv\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E674267A-0E66-45BB-AC5F-14EAB175079D}|Practica6_PV\\Practica6_PV.csproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Practica6_PV\\practica6_pv\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E674267A-0E66-45BB-AC5F-14EAB175079D}|Practica6_PV\\Practica6_PV.csproj|solutionrelative:practica6_pv\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E674267A-0E66-45BB-AC5F-14EAB175079D}|Practica6_PV\\Practica6_PV.csproj|c:\\users\\thinkpad\\onedrive\\documents\\lenguajes de programacion\\c#\\interfacesg\\practica6_pv\\practica6_pv\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E674267A-0E66-45BB-AC5F-14EAB175079D}|Practica6_PV\\Practica6_PV.csproj|solutionrelative:practica6_pv\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E674267A-0E66-45BB-AC5F-14EAB175079D}|Practica6_PV\\Practica6_PV.csproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Practica6_PV\\practica6_pv\\bd_setget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E674267A-0E66-45BB-AC5F-14EAB175079D}|Practica6_PV\\Practica6_PV.csproj|solutionrelative:practica6_pv\\bd_setget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E674267A-0E66-45BB-AC5F-14EAB175079D}|Practica6_PV\\Practica6_PV.csproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Practica6_PV\\practica6_pv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E674267A-0E66-45BB-AC5F-14EAB175079D}|Practica6_PV\\Practica6_PV.csproj|solutionrelative:practica6_pv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E674267A-0E66-45BB-AC5F-14EAB175079D}|Practica6_PV\\Practica6_PV.csproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Practica6_PV\\practica6_pv\\frmfacturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E674267A-0E66-45BB-AC5F-14EAB175079D}|Practica6_PV\\Practica6_PV.csproj|solutionrelative:practica6_pv\\frmfacturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E674267A-0E66-45BB-AC5F-14EAB175079D}|Practica6_PV\\Practica6_PV.csproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Practica6_PV\\practica6_pv\\frmfacturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E674267A-0E66-45BB-AC5F-14EAB175079D}|Practica6_PV\\Practica6_PV.csproj|solutionrelative:practica6_pv\\frmfacturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E674267A-0E66-45BB-AC5F-14EAB175079D}|Practica6_PV\\Practica6_PV.csproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Practica6_PV\\practica6_pv\\frmcatalogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E674267A-0E66-45BB-AC5F-14EAB175079D}|Practica6_PV\\Practica6_PV.csproj|solutionrelative:practica6_pv\\frmcatalogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E674267A-0E66-45BB-AC5F-14EAB175079D}|Practica6_PV\\Practica6_PV.csproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Practica6_PV\\practica6_pv\\frmcatalogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E674267A-0E66-45BB-AC5F-14EAB175079D}|Practica6_PV\\Practica6_PV.csproj|solutionrelative:practica6_pv\\frmcatalogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E674267A-0E66-45BB-AC5F-14EAB175079D}|Practica6_PV\\Practica6_PV.csproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Practica6_PV\\practica6_pv\\frmcambiarcontra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E674267A-0E66-45BB-AC5F-14EAB175079D}|Practica6_PV\\Practica6_PV.csproj|solutionrelative:practica6_pv\\frmcambiarcontra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E674267A-0E66-45BB-AC5F-14EAB175079D}|Practica6_PV\\Practica6_PV.csproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Practica6_PV\\practica6_pv\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E674267A-0E66-45BB-AC5F-14EAB175079D}|Practica6_PV\\Practica6_PV.csproj|solutionrelative:practica6_pv\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E674267A-0E66-45BB-AC5F-14EAB175079D}|Practica6_PV\\Practica6_PV.csproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Practica6_PV\\practica6_pv\\frmcambiarcontra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E674267A-0E66-45BB-AC5F-14EAB175079D}|Practica6_PV\\Practica6_PV.csproj|solutionrelative:practica6_pv\\frmcambiarcontra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E674267A-0E66-45BB-AC5F-14EAB175079D}|Practica6_PV\\Practica6_PV.csproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Practica6_PV\\practica6_pv\\frmprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E674267A-0E66-45BB-AC5F-14EAB175079D}|Practica6_PV\\Practica6_PV.csproj|solutionrelative:practica6_pv\\frmprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E674267A-0E66-45BB-AC5F-14EAB175079D}|Practica6_PV\\Practica6_PV.csproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Practica6_PV\\practica6_pv\\datosventasmanual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E674267A-0E66-45BB-AC5F-14EAB175079D}|Practica6_PV\\Practica6_PV.csproj|solutionrelative:practica6_pv\\datosventasmanual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E674267A-0E66-45BB-AC5F-14EAB175079D}|Practica6_PV\\Practica6_PV.csproj|C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Practica6_PV\\practica6_pv\\aboutbox1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E674267A-0E66-45BB-AC5F-14EAB175079D}|Practica6_PV\\Practica6_PV.csproj|solutionrelative:practica6_pv\\aboutbox1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 173,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmCambiarContra.cs",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Practica6_PV\\Practica6_PV\\FrmCambiarContra.cs",
+              "RelativeDocumentMoniker": "Practica6_PV\\FrmCambiarContra.cs",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Practica6_PV\\Practica6_PV\\FrmCambiarContra.cs",
+              "RelativeToolTip": "Practica6_PV\\FrmCambiarContra.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T02:45:56.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmCatalogo.cs",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Practica6_PV\\Practica6_PV\\FrmCatalogo.cs",
+              "RelativeDocumentMoniker": "Practica6_PV\\FrmCatalogo.cs",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Practica6_PV\\Practica6_PV\\FrmCatalogo.cs",
+              "RelativeToolTip": "Practica6_PV\\FrmCatalogo.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAjwDAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T02:36:02.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DatosVentasManual.cs",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Practica6_PV\\Practica6_PV\\DatosVentasManual.cs",
+              "RelativeDocumentMoniker": "Practica6_PV\\DatosVentasManual.cs",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Practica6_PV\\Practica6_PV\\DatosVentasManual.cs",
+              "RelativeToolTip": "Practica6_PV\\DatosVentasManual.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowFEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T00:54:38.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BD_SetGet.cs",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Practica6_PV\\Practica6_PV\\BD_SetGet.cs",
+              "RelativeDocumentMoniker": "Practica6_PV\\BD_SetGet.cs",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Practica6_PV\\Practica6_PV\\BD_SetGet.cs",
+              "RelativeToolTip": "Practica6_PV\\BD_SetGet.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwAoAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T20:16:45.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmPrincipal.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Practica6_PV\\Practica6_PV\\FrmPrincipal.Designer.cs",
+              "RelativeDocumentMoniker": "Practica6_PV\\FrmPrincipal.Designer.cs",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Practica6_PV\\Practica6_PV\\FrmPrincipal.Designer.cs",
+              "RelativeToolTip": "Practica6_PV\\FrmPrincipal.Designer.cs",
+              "ViewState": "AgIAANQAAAAAAAAAAAAAAKsAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T19:45:26.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Practica6_PV\\Practica6_PV\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "Practica6_PV\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Practica6_PV\\Practica6_PV\\FrmPrincipal.cs",
+              "RelativeToolTip": "Practica6_PV\\FrmPrincipal.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAswIgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T19:35:46.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Practica6_PV\\Practica6_PV\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "Practica6_PV\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Practica6_PV\\Practica6_PV\\FrmPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Practica6_PV\\FrmPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T19:31:08.317Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmFacturas.cs",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Practica6_PV\\Practica6_PV\\FrmFacturas.cs",
+              "RelativeDocumentMoniker": "Practica6_PV\\FrmFacturas.cs",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Practica6_PV\\Practica6_PV\\FrmFacturas.cs",
+              "RelativeToolTip": "Practica6_PV\\FrmFacturas.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAjwE8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T19:26:20.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Practica6_PV\\Practica6_PV\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "Practica6_PV\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Practica6_PV\\Practica6_PV\\FrmLogin.cs",
+              "RelativeToolTip": "Practica6_PV\\FrmLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T18:56:52.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Practica6_PV\\Practica6_PV\\Program.cs",
+              "RelativeDocumentMoniker": "Practica6_PV\\Program.cs",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Practica6_PV\\Practica6_PV\\Program.cs",
+              "RelativeToolTip": "Practica6_PV\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T18:53:14.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AboutBox1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Practica6_PV\\Practica6_PV\\AboutBox1.cs",
+              "RelativeDocumentMoniker": "Practica6_PV\\AboutBox1.cs",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Practica6_PV\\Practica6_PV\\AboutBox1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Practica6_PV\\AboutBox1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T18:47:42.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmCambiarContra.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Practica6_PV\\Practica6_PV\\FrmCambiarContra.cs",
+              "RelativeDocumentMoniker": "Practica6_PV\\FrmCambiarContra.cs",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Practica6_PV\\Practica6_PV\\FrmCambiarContra.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Practica6_PV\\FrmCambiarContra.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T18:32:27.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmCatalogo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Practica6_PV\\Practica6_PV\\FrmCatalogo.cs",
+              "RelativeDocumentMoniker": "Practica6_PV\\FrmCatalogo.cs",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Practica6_PV\\Practica6_PV\\FrmCatalogo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Practica6_PV\\FrmCatalogo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T18:26:32.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmLogin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Practica6_PV\\Practica6_PV\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "Practica6_PV\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Practica6_PV\\Practica6_PV\\FrmLogin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Practica6_PV\\FrmLogin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T16:52:50.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmFacturas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Practica6_PV\\Practica6_PV\\FrmFacturas.cs",
+              "RelativeDocumentMoniker": "Practica6_PV\\FrmFacturas.cs",
+              "ToolTip": "C:\\Users\\THINKPAD\\OneDrive\\Documents\\Lenguajes De Programacion\\C#\\InterfacesG\\Practica6_PV\\Practica6_PV\\FrmFacturas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Practica6_PV\\FrmFacturas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T17:17:03.976Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
